@@ -1,0 +1,1 @@
+Alt text pe care nu il inregistram in github repo cu $ git add .
